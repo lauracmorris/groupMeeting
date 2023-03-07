@@ -1,0 +1,4 @@
+This repository is being archived as a test. 
+The main purpose is to determine archived behavior
+so that I know what's going to happen to 
+an important repository.
